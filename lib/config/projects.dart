@@ -15,49 +15,48 @@ final List<Project> projects = [
       name: 'Hair Booking',
       image: Assets.hairbooking_icon,
       description:
-      'An Open-Source Messaging App built using Flutter and Firebase. Part of the series \'60 Days of Flutter',
+      'This application was specially build for those people who want to deal with Corona situation and want to earn even in this situation.This app contain firebase as a database and flutter as a framework.',
       gif: Assets.hairbooking,
    
-      link: 'https://github.com/hasan/messio'),
+      link: 'https://github.com/hassanrehman01398'),
   Project(
       name: 'Stream App',
       image: Assets.stream_icon,
       description:
-      'Savaari is the leading player in Outstation Cabs, Hourly Rental Cabs, Airport Pickups and Airport Drop Taxis. ',
+      'This prpject was my dream and yes it took my whole Ramadan to build this.I was looking for this paid project and fortunately I got this.This app is not build by me as whole but I did some modifications in this and I feel proud of that because playing with stream is something which every developer wish.',
        gif: Assets.stream,
    
-      link: 'https://play.google.com/store/apps/details?id=com.savaari.app'),
+      link: ''),
   Project(
       name: 'Storage App',
       image: Assets.musicapp_icon,
       description:
-      'This App allows cab drivers to conveniently share billing and other trip details scheduled to them.',
+      'This app is a simple solution for firebase storage of recordings,videos and images.More like a sound recorder,a video or image gallery.',
          gif: Assets.musicapp,
    
-      link:
-      'https://play.google.com/store/apps/details?id=com.savaari.driver.app'),
+      link:''),
   Project(
       name: 'PlayDates',
       image: Assets.dog_icon,
       description:
-      'Through this App, along with doorstep delivery of a new car, one can also select the accessories to buy.',
+      'This app is for dog lovers like me who want to manage their tame animals.Can create their playdates,schedule.This app also contain custom notification and is build in Java.',
         gif: Assets.dog,
    
-      link: 'https://play.google.com/store/apps/details?id=com.mynewcar.app'),
+      link: ''),
   Project(
       name: 'MachliWaala',
       image: Assets.machliwala_icon,
       description:
-      'With the Trivz app, car owners can give test drives to car buyers.',
+      'An ecommerce Machli App for a client and a friend build in java.',
          gif: Assets.machliwala,
    
       link:
-      'https://play.google.com/store/apps/details?id=in.mynewcar.testdrives'),
+      ''),
   Project(
       name: 'Booking App',
       image: Assets.book_icon,
       description:
-      'Mydealer App helps a car dealership to manage sales process and improve the productivity`.',
+      '',
          gif: Assets.hairapp,
    
       link: 'https://play.google.com/store/apps/details?id=in.mnc.mydealer'),
@@ -65,11 +64,11 @@ final List<Project> projects = [
       name: 'Bhai Hazir',
       image: Assets.bhaihazir_icon,
       description:
-      'FaceLyt is an alternative and free client to manage your Facebook account.',
+      'An ecommerce application build in flutter and under terms of Bhai Hazir team.This app is woocommerce application and is done by my team and me.',
          gif: Assets.bhaihazir,
    
       link:
-      'https://apkpure.com/facelyt-for-facebook-lite/com.adityaadi1467.facelytx'),
+      ''),
   Project(
       name: 'Fitness + Social App',
       image: Assets.fitness_icon,
